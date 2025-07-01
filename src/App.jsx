@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route, Link} from 'react-router-dom'
 import "./styles/pages.css";
-import "../src/App.css";
+import "..\src\App.css";
 import ChatbotComponent from './components/Chatbot/ChatbotComponents';
 import HomePage from './pages/HomePage';
 import ContactPage from './pages/ContactPage';
